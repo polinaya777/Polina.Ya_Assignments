@@ -24,4 +24,10 @@ The game: you have a random list of numbers and have to find the pair of numbers
 `report.py` takes as arguments the database file name and month and will print the search result:
 `python report.py database.csv april`
 
+- [Milestone 7](milestone_7)
+
+`app.py` - Flask application with two routes: `/birthdays` and `/anniversaries`. Each route accepts month and department as query parameters. Data provided from `database.csv` file.
+`fetch_report.py` dynamically constructs the URL to query the Flask API's `/birthdays` and `/anniversaries` endpoints with the specified month and department. It then parses the JSON responses to display a summary report in the console:
+`python fetch_report.py april Engineering`
+
 - [Assignments in Jupyter notebook]()
