@@ -30,4 +30,9 @@ The game: you have a random list of numbers and have to find the pair of numbers
 `fetch_report.py` dynamically constructs the URL to query the Flask API's `/birthdays` and `/anniversaries` endpoints with the specified month and department. It then parses the JSON responses to display a summary report in the console:
 `python fetch_report.py april Engineering`
 
+- [Milestone 8](milestone_8)
+
+`bookshelf.py` - classes for organizing books (Book, Shelf, Room)
+`main.py` - creates a sample of books and organize them in the room
+
 - [Assignments in Jupyter notebook]()
