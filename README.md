@@ -24,4 +24,4 @@ The game: you have a random list of numbers and have to find the pair of numbers
 `report.py` takes as arguments the database file name and month and will print the search result:
 `python report.py database.csv april`
 
-- [Assignments in Jupiter notebook]()
+- [Assignments in Jupyter notebook]()
