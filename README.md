@@ -35,4 +35,8 @@ The game: you have a random list of numbers and have to find the pair of numbers
 `bookshelf.py` - classes for organizing books (Book, Shelf, Room)
 `main.py` - creates a sample of books and organize them in the room
 
+- [Milestone 9](milestone_9)
+
+data analysis of the dataset `iris`
+
 - [Assignments in Jupyter notebook]()
